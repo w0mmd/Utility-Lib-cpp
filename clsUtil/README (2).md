@@ -7,7 +7,7 @@ Built using a custom `clsUtil` class.
 
 ## 🔗 Dependency
 
-This library depends on [`clsDate`](https://github.com/w0mmd/clsDate),  
+This library depends on [`clsDate`](https://github.com/w0mmd/Date-Lib-cpp),  
 so make sure to include it in your project before using `clsUtil`.
 
 ---
